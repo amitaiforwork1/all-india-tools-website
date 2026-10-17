@@ -14,10 +14,18 @@ A responsive business website starter built with plain HTML, CSS and JavaScript.
 - Browser-only product editor at `admin.html`
 - Privacy notice
 
-## Important before going live
-1. Edit `config.js` and enter the real business email, phone number and WhatsApp number. WhatsApp number must be digits only with country code, e.g. `91` + Indian mobile number.
+## Business details configured
+- Business: All India Tools Supplying Agency
+- Tagline: Industrial tools, hardware and engineering supplies
+- Email: info@allindiatoolssupplyingagency.in
+- Phone / WhatsApp: +91 88404 13808
+- Location: Kanpur, Uttar Pradesh, India
+- Primary audience: government and institutional buyers
+
+## Important before publishing updates
+1. Contact details are already set in `config.js`. Verify that the phone and email are correct and monitored.
 2. Replace placeholder photos with your own product/company photos and ensure you have rights to use them.
-3. Update the canonical URL and structured-data URL in `index.html` after you know the GitHub Pages URL.
+3. A canonical URL has been omitted because the exact GitHub Pages URL was not supplied. Add it once you confirm the final URL or connect a custom domain.
 4. Replace illustrative catalogue items with your actual products, specifications and brands.
 5. Test every link and the enquiry process.
 
@@ -29,7 +37,7 @@ A responsive business website starter built with plain HTML, CSS and JavaScript.
 5. Select branch `main` and folder `/(root)`, then click **Save**.
 6. Wait for GitHub Pages to publish. Your URL will look like `https://YOUR-USERNAME.github.io/all-india-tools-website/`.
 7. Open the URL on desktop and mobile and test the site.
-8. Replace `YOUR-USERNAME` and `YOUR-REPOSITORY` in the canonical URL and JSON-LD URL in `index.html`, then commit the change.
+8. Once the exact live URL is confirmed, optionally add the canonical URL and `url` property to the Organization structured data.
 9. In Google Search Console, add the site property and request indexing for the homepage. Indexing is not guaranteed and may take time.
 
 ## How the catalogue editor works

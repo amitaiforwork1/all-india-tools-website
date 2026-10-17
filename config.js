@@ -1,13 +1,12 @@
-/*
-  BUSINESS SETTINGS
-  Before publishing, replace these placeholders with your real contact details.
-  WhatsApp number format: country code + number, digits only (India example starts with 91).
-*/
+/* Business contact settings for All India Tools Supplying Agency */
 window.SITE_CONFIG = {
   businessName: "All India Tools Supplying Agency",
-  email: "your-email@example.com",
-  phoneDisplay: "+91 XXXXX XXXXX",
-  whatsappNumber: "91XXXXXXXXXX",
+  tagline: "Industrial tools, hardware and engineering supplies",
+  email: "info@allindiatoolssupplyingagency.in",
+  phoneDisplay: "+91 88404 13808",
+  phoneNumber: "918840413808",
+  whatsappNumber: "918840413808",
+  location: "Kanpur, Uttar Pradesh, India",
   currency: "INR",
-  currencyNote: "Prices and availability are confirmed by quotation."
+  currencyNote: "Prices, specifications and availability are confirmed by quotation."
 };
