@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 100" role="img" aria-labelledby="title desc">
+<title id="title">All India Tools Supplying Agency</title><desc id="desc">Navy and gold industrial gear emblem with AIT initials.</desc>
+<rect x="2" y="2" width="96" height="96" rx="8" fill="#10263f"/>
+<g transform="translate(50 50)" fill="none" stroke="#d6a85d" stroke-width="4" stroke-linejoin="round">
+<circle r="27"/><circle r="17"/><path d="M-6-38h12v10a30 30 0 0 1 9 4l7-7 9 9-7 7a30 30 0 0 1 4 9h10v12H28a30 30 0 0 1-4 9l7 7-9 9-7-7a30 30 0 0 1-9 4v10H-6V28a30 30 0 0 1-9-4l-7 7-9-9 7-7a30 30 0 0 1-4-9h-10V-6h10a30 30 0 0 1 4-9l-7-7 9-9 7 7a30 30 0 0 1 9-4z" transform="scale(.72)"/>
+</g><path d="M36 57l10-16 10 16M40 51h12" stroke="#fff" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="118" y="43" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="800" letter-spacing="1.2" fill="#10263f">ALL INDIA TOOLS</text>
+<path d="M119 54h250" stroke="#d6a85d" stroke-width="2"/>
+<text x="119" y="76" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="3.1" fill="#536577">SUPPLYING AGENCY</text>
+</svg>
